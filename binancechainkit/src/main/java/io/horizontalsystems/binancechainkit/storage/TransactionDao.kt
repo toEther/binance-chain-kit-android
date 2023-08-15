@@ -1,8 +1,8 @@
-package io.horizontalsystems.binancechainkit.storage
+package io.definenulls.binancechainkit.storage
 
 import androidx.room.*
 import androidx.sqlite.db.SupportSQLiteQuery
-import io.horizontalsystems.binancechainkit.models.Transaction
+import io.definenulls.binancechainkit.models.Transaction
 
 @Dao
 interface TransactionDao {

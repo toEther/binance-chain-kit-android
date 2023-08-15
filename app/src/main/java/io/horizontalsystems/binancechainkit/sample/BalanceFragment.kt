@@ -1,4 +1,4 @@
-package io.horizontalsystems.binancechainkit.sample
+package io.definenulls.binancechainkit.sample
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,7 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import io.horizontalsystems.binancechainkit.BinanceChainKit
+import io.definenulls.binancechainkit.BinanceChainKit
 
 class BalanceFragment : Fragment() {
 

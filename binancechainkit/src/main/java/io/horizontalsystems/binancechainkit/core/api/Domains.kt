@@ -1,18 +1,18 @@
-package io.horizontalsystems.binancechainkit.core.api
+package io.definenulls.binancechainkit.core.api
 
 import com.google.gson.annotations.SerializedName
-import io.horizontalsystems.binancechainkit.models.Balance
-import io.horizontalsystems.binancechainkit.models.Transaction
+import io.definenulls.binancechainkit.models.Balance
+import io.definenulls.binancechainkit.models.Transaction
 import org.apache.commons.lang3.builder.ToStringStyle
 import org.apache.commons.lang3.builder.ToStringBuilder
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.fasterxml.jackson.annotation.JsonPropertyOrder
 import android.R.string.ok
-import io.horizontalsystems.binancechainkit.proto.Send
+import io.definenulls.binancechainkit.proto.Send
 
 
-typealias ProtoToken = io.horizontalsystems.binancechainkit.proto.Token
+typealias ProtoToken = io.definenulls.binancechainkit.proto.Token
 
 
 class Response {

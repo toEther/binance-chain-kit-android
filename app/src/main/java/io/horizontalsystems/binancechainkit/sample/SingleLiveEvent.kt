@@ -1,4 +1,4 @@
-package io.horizontalsystems.binancechainkit.sample
+package io.definenulls.binancechainkit.sample
 
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.MutableLiveData

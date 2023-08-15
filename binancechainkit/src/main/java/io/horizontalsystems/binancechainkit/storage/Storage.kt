@@ -1,11 +1,11 @@
-package io.horizontalsystems.binancechainkit.storage
+package io.definenulls.binancechainkit.storage
 
 import androidx.sqlite.db.SimpleSQLiteQuery
-import io.horizontalsystems.binancechainkit.core.IStorage
-import io.horizontalsystems.binancechainkit.models.Balance
-import io.horizontalsystems.binancechainkit.models.LatestBlock
-import io.horizontalsystems.binancechainkit.models.SyncState
-import io.horizontalsystems.binancechainkit.models.Transaction
+import io.definenulls.binancechainkit.core.IStorage
+import io.definenulls.binancechainkit.models.Balance
+import io.definenulls.binancechainkit.models.LatestBlock
+import io.definenulls.binancechainkit.models.SyncState
+import io.definenulls.binancechainkit.models.Transaction
 
 class Storage(private val database: KitDatabase) : IStorage {
 

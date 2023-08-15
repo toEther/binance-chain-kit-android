@@ -1,9 +1,9 @@
-package io.horizontalsystems.binancechainkit.core
+package io.definenulls.binancechainkit.core
 
-import io.horizontalsystems.binancechainkit.models.Balance
-import io.horizontalsystems.binancechainkit.models.LatestBlock
-import io.horizontalsystems.binancechainkit.models.SyncState
-import io.horizontalsystems.binancechainkit.models.Transaction
+import io.definenulls.binancechainkit.models.Balance
+import io.definenulls.binancechainkit.models.LatestBlock
+import io.definenulls.binancechainkit.models.SyncState
+import io.definenulls.binancechainkit.models.Transaction
 
 interface IStorage {
     var latestBlock: LatestBlock?

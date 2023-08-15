@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package io.horizontalsystems.binancechainkit.helpers;
+package io.definenulls.binancechainkit.helpers;
 
 public class AddressFormatException extends IllegalArgumentException {
     public AddressFormatException() {

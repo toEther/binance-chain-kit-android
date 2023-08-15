@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package io.horizontalsystems.binancechainkit.helpers;
+package io.definenulls.binancechainkit.helpers;
 
 import java.util.Arrays;
 import java.util.Locale;

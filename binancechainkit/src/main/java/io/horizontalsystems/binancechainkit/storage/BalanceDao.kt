@@ -1,10 +1,10 @@
-package io.horizontalsystems.binancechainkit.storage
+package io.definenulls.binancechainkit.storage
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import io.horizontalsystems.binancechainkit.models.Balance
+import io.definenulls.binancechainkit.models.Balance
 
 @Dao
 interface BalanceDao {

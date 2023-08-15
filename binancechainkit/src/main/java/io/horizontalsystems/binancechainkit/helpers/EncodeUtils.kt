@@ -1,4 +1,4 @@
-package io.horizontalsystems.binancechainkit.helpers
+package io.definenulls.binancechainkit.helpers
 
 import com.google.protobuf.CodedOutputStream
 import java.io.IOException

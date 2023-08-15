@@ -1,7 +1,7 @@
-package io.horizontalsystems.binancechainkit.core
+package io.definenulls.binancechainkit.core
 
-import io.horizontalsystems.binancechainkit.models.TransactionFilterType
-import io.horizontalsystems.binancechainkit.models.TransactionInfo
+import io.definenulls.binancechainkit.models.TransactionFilterType
+import io.definenulls.binancechainkit.models.TransactionInfo
 import io.reactivex.BackpressureStrategy
 import io.reactivex.Flowable
 import io.reactivex.subjects.PublishSubject

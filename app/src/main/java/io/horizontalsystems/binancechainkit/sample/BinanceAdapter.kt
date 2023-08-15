@@ -1,7 +1,7 @@
-package io.horizontalsystems.binancechainkit.sample
+package io.definenulls.binancechainkit.sample
 
-import io.horizontalsystems.binancechainkit.BinanceChainKit
-import io.horizontalsystems.binancechainkit.models.TransactionInfo
+import io.definenulls.binancechainkit.BinanceChainKit
+import io.definenulls.binancechainkit.models.TransactionInfo
 import io.reactivex.Flowable
 import io.reactivex.Single
 import java.math.BigDecimal

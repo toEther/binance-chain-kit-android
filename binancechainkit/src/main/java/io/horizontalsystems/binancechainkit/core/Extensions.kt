@@ -1,6 +1,6 @@
-package io.horizontalsystems.binancechainkit.core
+package io.definenulls.binancechainkit.core
 
-import io.horizontalsystems.binancechainkit.core.api.BinanceError
+import io.definenulls.binancechainkit.core.api.BinanceError
 import io.reactivex.Flowable
 import io.reactivex.Single
 import java.util.concurrent.TimeUnit

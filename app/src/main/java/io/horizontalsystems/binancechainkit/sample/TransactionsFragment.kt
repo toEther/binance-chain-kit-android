@@ -1,4 +1,4 @@
-package io.horizontalsystems.binancechainkit.sample
+package io.definenulls.binancechainkit.sample
 
 import android.app.ActionBar.LayoutParams
 import android.graphics.Color
@@ -13,7 +13,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import io.horizontalsystems.binancechainkit.models.TransactionInfo
+import io.definenulls.binancechainkit.models.TransactionInfo
 
 class TransactionsFragment : Fragment() {
 

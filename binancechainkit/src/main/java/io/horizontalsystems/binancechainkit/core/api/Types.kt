@@ -1,6 +1,6 @@
-package io.horizontalsystems.binancechainkit.core.api
+package io.definenulls.binancechainkit.core.api
 
-import io.horizontalsystems.binancechainkit.helpers.EncodeUtils
+import io.definenulls.binancechainkit.helpers.EncodeUtils
 
 
 enum class Source(val value: Int) {

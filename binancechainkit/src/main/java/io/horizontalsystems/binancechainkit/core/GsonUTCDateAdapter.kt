@@ -1,4 +1,4 @@
-package io.horizontalsystems.binancechainkit.core
+package io.definenulls.binancechainkit.core
 
 import com.google.gson.*
 import java.lang.reflect.Type

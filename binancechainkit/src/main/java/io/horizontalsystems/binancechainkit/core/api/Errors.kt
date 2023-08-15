@@ -1,4 +1,4 @@
-package io.horizontalsystems.binancechainkit.core.api
+package io.definenulls.binancechainkit.core.api
 
 import com.google.gson.annotations.SerializedName
 

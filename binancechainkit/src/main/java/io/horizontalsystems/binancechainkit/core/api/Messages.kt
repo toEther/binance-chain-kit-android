@@ -1,16 +1,16 @@
-package io.horizontalsystems.binancechainkit.core.api
+package io.definenulls.binancechainkit.core.api
 
 import com.google.protobuf.ByteString
-import io.horizontalsystems.binancechainkit.core.Wallet
-import io.horizontalsystems.binancechainkit.helpers.Crypto
-import io.horizontalsystems.binancechainkit.helpers.EncodeUtils
-import io.horizontalsystems.binancechainkit.proto.Send
+import io.definenulls.binancechainkit.core.Wallet
+import io.definenulls.binancechainkit.helpers.Crypto
+import io.definenulls.binancechainkit.helpers.EncodeUtils
+import io.definenulls.binancechainkit.proto.Send
 import java.math.BigDecimal
 import okhttp3.RequestBody
 import java.io.IOException
 import java.security.NoSuchAlgorithmException
-import io.horizontalsystems.binancechainkit.proto.StdSignature
-import io.horizontalsystems.binancechainkit.proto.StdTx
+import io.definenulls.binancechainkit.proto.StdSignature
+import io.definenulls.binancechainkit.proto.StdTx
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
 import okhttp3.RequestBody.Companion.toRequestBody
 import java.util.Collections.singletonList

@@ -1,10 +1,10 @@
-package io.horizontalsystems.binancechainkit.managers
+package io.definenulls.binancechainkit.managers
 
-import io.horizontalsystems.binancechainkit.core.api.BinanceChainApi
-import io.horizontalsystems.binancechainkit.core.IStorage
-import io.horizontalsystems.binancechainkit.core.api.BinanceError
-import io.horizontalsystems.binancechainkit.models.Balance
-import io.horizontalsystems.binancechainkit.models.LatestBlock
+import io.definenulls.binancechainkit.core.api.BinanceChainApi
+import io.definenulls.binancechainkit.core.IStorage
+import io.definenulls.binancechainkit.core.api.BinanceError
+import io.definenulls.binancechainkit.models.Balance
+import io.definenulls.binancechainkit.models.LatestBlock
 import io.reactivex.Single
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.functions.BiFunction

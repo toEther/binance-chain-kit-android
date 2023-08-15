@@ -1,11 +1,11 @@
-package io.horizontalsystems.binancechainkit.managers
+package io.definenulls.binancechainkit.managers
 
-import io.horizontalsystems.binancechainkit.core.IStorage
-import io.horizontalsystems.binancechainkit.core.Wallet
-import io.horizontalsystems.binancechainkit.core.api.BinanceChainApi
-import io.horizontalsystems.binancechainkit.models.SyncState
-import io.horizontalsystems.binancechainkit.models.Transaction
-import io.horizontalsystems.binancechainkit.models.TransactionFilterType
+import io.definenulls.binancechainkit.core.IStorage
+import io.definenulls.binancechainkit.core.Wallet
+import io.definenulls.binancechainkit.core.api.BinanceChainApi
+import io.definenulls.binancechainkit.models.SyncState
+import io.definenulls.binancechainkit.models.Transaction
+import io.definenulls.binancechainkit.models.TransactionFilterType
 import io.reactivex.Single
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers

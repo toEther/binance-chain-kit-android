@@ -1,4 +1,4 @@
-package io.horizontalsystems.binancechainkit.sample
+package io.definenulls.binancechainkit.sample
 
 import android.app.Application
 

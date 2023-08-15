@@ -1,4 +1,4 @@
-package io.horizontalsystems.binancechainkit.models
+package io.definenulls.binancechainkit.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

@@ -1,10 +1,10 @@
-package io.horizontalsystems.binancechainkit.sample
+package io.definenulls.binancechainkit.sample
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import io.horizontalsystems.binancechainkit.BinanceChainKit
-import io.horizontalsystems.binancechainkit.models.LatestBlock
-import io.horizontalsystems.binancechainkit.models.TransactionInfo
+import io.definenulls.binancechainkit.BinanceChainKit
+import io.definenulls.binancechainkit.models.LatestBlock
+import io.definenulls.binancechainkit.models.TransactionInfo
 import io.reactivex.disposables.CompositeDisposable
 
 class MainViewModel : ViewModel() {

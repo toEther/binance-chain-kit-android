@@ -1,17 +1,17 @@
-package io.horizontalsystems.binancechainkit.core.api
+package io.definenulls.binancechainkit.core.api
 
 
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
 import com.google.gson.TypeAdapter
-import io.horizontalsystems.binancechainkit.BinanceChainKit
-import io.horizontalsystems.binancechainkit.core.GsonUTCDateAdapter
-import io.horizontalsystems.binancechainkit.core.Wallet
-import io.horizontalsystems.binancechainkit.core.retryWithDelay
-import io.horizontalsystems.binancechainkit.models.Balance
-import io.horizontalsystems.binancechainkit.models.Bep2Token
-import io.horizontalsystems.binancechainkit.models.LatestBlock
-import io.horizontalsystems.binancechainkit.models.Transaction
+import io.definenulls.binancechainkit.BinanceChainKit
+import io.definenulls.binancechainkit.core.GsonUTCDateAdapter
+import io.definenulls.binancechainkit.core.Wallet
+import io.definenulls.binancechainkit.core.retryWithDelay
+import io.definenulls.binancechainkit.models.Balance
+import io.definenulls.binancechainkit.models.Bep2Token
+import io.definenulls.binancechainkit.models.LatestBlock
+import io.definenulls.binancechainkit.models.Transaction
 import io.reactivex.Single
 import okhttp3.OkHttpClient
 import okhttp3.RequestBody
