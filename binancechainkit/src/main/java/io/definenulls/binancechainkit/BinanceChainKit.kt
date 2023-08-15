@@ -16,8 +16,8 @@ import io.definenulls.binancechainkit.models.Transaction
 import io.definenulls.binancechainkit.models.TransactionInfo
 import io.definenulls.binancechainkit.storage.KitDatabase
 import io.definenulls.binancechainkit.storage.Storage
-import io.horizontalsystems.hdwalletkit.HDWallet
-import io.horizontalsystems.hdwalletkit.Mnemonic
+import io.definenulls.hdwalletkit.HDWallet
+import io.definenulls.hdwalletkit.Mnemonic
 import io.reactivex.BackpressureStrategy
 import io.reactivex.Flowable
 import io.reactivex.Observable

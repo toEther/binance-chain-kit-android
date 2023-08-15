@@ -27,12 +27,12 @@ import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-import io.horizontalsystems.hdwalletkit.ECDSASignature;
-import io.horizontalsystems.hdwalletkit.ECException;
-import io.horizontalsystems.hdwalletkit.ECKey;
+import io.definenulls.hdwalletkit.ECDSASignature;
+import io.definenulls.hdwalletkit.ECException;
+import io.definenulls.hdwalletkit.ECKey;
 
 import static com.google.common.base.Preconditions.checkArgument;
-import static io.horizontalsystems.hdwalletkit.ECKey.HALF_CURVE_ORDER;
+import static io.definenulls.hdwalletkit.ECKey.HALF_CURVE_ORDER;
 
 
 public class Crypto {
