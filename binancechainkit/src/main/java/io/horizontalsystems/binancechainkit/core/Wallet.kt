@@ -4,9 +4,9 @@ package io.definenulls.binancechainkit.core
 import io.definenulls.binancechainkit.BinanceChainKit
 import io.definenulls.binancechainkit.core.api.MessageType
 import io.definenulls.binancechainkit.helpers.Crypto
-import io.definenulls.hdwalletkit.ECKey
-import io.definenulls.hdwalletkit.HDWallet
-import io.definenulls.hdwalletkit.Utils
+import io.horizontalsystems.hdwalletkit.ECKey
+import io.horizontalsystems.hdwalletkit.HDWallet
+import io.horizontalsystems.hdwalletkit.Utils
 
 class Wallet(hdWallet: HDWallet, networkType: BinanceChainKit.NetworkType) {
 
